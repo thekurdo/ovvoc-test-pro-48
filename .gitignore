@@ -1,0 +1,3 @@
+node_modules/
+prisma/test.db
+prisma/test.db-journal
